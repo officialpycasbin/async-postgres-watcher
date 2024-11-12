@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.1.0...v1.2.0) (2024-11-12)
+
+
+### Features
+
+* fix CI's macOS error ([7d7059c](https://github.com/officialpycasbin/async-postgres-watcher/commit/7d7059c8ffa2c38d7660bc7a5ed7b14664d733f6))
+* update path ([f2bf3c3](https://github.com/officialpycasbin/async-postgres-watcher/commit/f2bf3c3c307c596bda73911bf15f74a14f31ca19))
+
 # [1.1.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.0.0...v1.1.0) (2024-03-17)
 
 
