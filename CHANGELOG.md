@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.3.0...v1.4.0) (2025-08-20)
+
+
+### Features
+
+* fix README badges ([#2](https://github.com/officialpycasbin/async-postgres-watcher/issues/2)) ([c6e94e6](https://github.com/officialpycasbin/async-postgres-watcher/commit/c6e94e65be9bfae550a54dde8b9b779d5c6efa77))
+
 # [1.3.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.2.0...v1.3.0) (2025-08-15)
 
 
